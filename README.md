@@ -46,3 +46,13 @@ https://pixelproduce.online/
 
 ![App Screenshot](https://drive.google.com/file/d/1o7yzQ75kBacfvXXxcc8mxlBxmoT1Km44/view?usp=share_link)
 
+
+## Usage/Examples
+
+```
+Go to http://localhost:3000 in your web browser.
+Input text and customize image settings.
+Click "Generate" to create the image.
+View and download the image.
+```
+
